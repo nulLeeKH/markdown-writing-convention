@@ -15,6 +15,9 @@
 ##### [Argument Name 0-1]
 - [Discription of Argument 0-1]
 
+####  Return
+- [Discription of return value 0]
+
 ### [Function Name 1]
 
 #### [Discription of Function 1]
@@ -30,6 +33,8 @@
 ##### [Argument Name 1-1]
 - [Discription of Argument 1-1]
 
+####  Return
+- [Discription of return value 1]
 
 ### [Function Name 2]
 
@@ -48,3 +53,6 @@
 
 ##### [Argument Name 2-2]
 - [Discription of Argument 2-2]
+
+####  Return
+- [Discription of return value 2]
