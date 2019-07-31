@@ -1,7 +1,4 @@
 # markdown-writing-convention
-
-## About
-
 The repository contains convention for writing documents using markdown.
 
 ## Info
