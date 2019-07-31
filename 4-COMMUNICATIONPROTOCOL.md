@@ -1,5 +1,4 @@
 ## Communication Protocol
-
 - [Protocol Discription 0]
 - [Protocol Discription 1]
 - [Protocol Discription 2]
