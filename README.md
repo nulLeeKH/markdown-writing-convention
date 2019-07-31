@@ -2,7 +2,7 @@
 
 ## About
 
-The repository contains conventions for writing documents using markdown.
+The repository contains convention for writing documents using markdown.
 
 ## Info
 
